@@ -19,6 +19,8 @@ goldendict词典的有道扩展程序
 在goldendict的Edit - Dictionaries加入如下配置：  
 ![image](https://github.com/Onway/eyoudao/raw/master/img/setting.png)  
 如果启用了多个eyoudao的扩展程序，可能要分别添加词典分组，否则css布局可能会相互影响。
+
+## 添加程序到词典
 eyoudao -detail "%GDWORD%"
 
 ## 效果图
